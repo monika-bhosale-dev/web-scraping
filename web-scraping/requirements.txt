@@ -1,0 +1,38 @@
+# --- Core HTTP & Parsing ---
+requests
+httpx
+beautifulsoup4
+lxml
+cssselect
+
+# --- Browser Automation ---
+selenium
+webdriver-manager
+undetected-chromedriver
+playwright
+playwright-stealth
+
+# --- Scrapy ---
+scrapy
+scrapy-playwright
+scrapy-rotating-proxies
+
+# --- Async ---
+aiohttp
+asyncio
+
+# --- Data & Storage ---
+pandas
+sqlalchemy
+psycopg2-binary
+pymongo
+
+# --- Utilities ---
+python-dotenv
+tenacity
+fake-useragent
+loguru
+
+# --- Testing / SDET ---
+pytest
+pytest-html
